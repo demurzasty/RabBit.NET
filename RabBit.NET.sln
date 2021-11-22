@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabBit.NET", "RabBit.NET\RabBit.NET.csproj", "{1CEB6A6B-8100-49E4-870E-824BC819E406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabBit.NET.Example", "RabBit.NET.Example\RabBit.NET.Example.csproj", "{2C9B2669-F2E8-4B4B-8437-10F0FF1DEC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CEB6A6B-8100-49E4-870E-824BC819E406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEB6A6B-8100-49E4-870E-824BC819E406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEB6A6B-8100-49E4-870E-824BC819E406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEB6A6B-8100-49E4-870E-824BC819E406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9B2669-F2E8-4B4B-8437-10F0FF1DEC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9B2669-F2E8-4B4B-8437-10F0FF1DEC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9B2669-F2E8-4B4B-8437-10F0FF1DEC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9B2669-F2E8-4B4B-8437-10F0FF1DEC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF8A9131-119C-47C9-B883-6B8415067AB6}
+	EndGlobalSection
+EndGlobal
